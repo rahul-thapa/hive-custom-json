@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/hive-custom-json/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/hive-custom-json/static/js/main.a610f91f.chunk.js",
+    "main.js.map": "/hive-custom-json/static/js/main.a610f91f.chunk.js.map",
+    "runtime-main.js": "/hive-custom-json/static/js/runtime-main.2bf500c7.js",
+    "runtime-main.js.map": "/hive-custom-json/static/js/runtime-main.2bf500c7.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/hive-custom-json/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.4e85df8d.chunk.js": "/hive-custom-json/static/js/2.4e85df8d.chunk.js",
+    "static/js/2.4e85df8d.chunk.js.map": "/hive-custom-json/static/js/2.4e85df8d.chunk.js.map",
+    "static/js/3.1520857a.chunk.js": "/hive-custom-json/static/js/3.1520857a.chunk.js",
+    "static/js/3.1520857a.chunk.js.map": "/hive-custom-json/static/js/3.1520857a.chunk.js.map",
+    "index.html": "/hive-custom-json/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/hive-custom-json/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/hive-custom-json/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.4e85df8d.chunk.js.LICENSE.txt": "/hive-custom-json/static/js/2.4e85df8d.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/hive-custom-json/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bf500c7.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.4e85df8d.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.a610f91f.chunk.js"
+  ]
+}
